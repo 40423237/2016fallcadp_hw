@@ -51,9 +51,9 @@
 </v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
-<v t="amd.20151215170031.1"><vh>@path ./../content</vh>
-<v t="amd.20160106093454.1"><vh>yen 所寫的網誌文章</vh>
-<v t="amd.20160727114506.1"><vh>201609</vh>
+<v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
+<v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
+<v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit other.md</vh></v>
 <v t="leo.20161111110921.1"><vh>@edit 20160916.md</vh></v>
 <v t="leo.20161111110924.1"><vh>@edit 20160923.md</vh></v>
@@ -67,8 +67,8 @@
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
-<v t="amd.20160106094829.1"><vh>yen 所寫的 pages 文章</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
